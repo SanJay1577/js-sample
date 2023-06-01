@@ -1,0 +1,14 @@
+.book-card{ 
+    border: 1px solid black;
+    width: 300px;
+    height: max-content;
+    text-align: center;
+}
+
+#book-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: stretch;
+    gap:0.5rem;
+}
